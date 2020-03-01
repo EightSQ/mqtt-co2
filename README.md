@@ -2,7 +2,7 @@
 
 ## Requirements
 - Raspberry Pi 1+ B or compatible
-- MH-Z19B sensor (you can find for less than 20$ on [aliexpress](https://www.aliexpress.com/wholesale?SearchText=mh+z19b))
+- MH-Z19B sensor (you can find them for less than 20$ on [aliexpress](https://www.aliexpress.com/wholesale?SearchText=mh+z19b))
 - python 3 with pip
 
 ## Setup
